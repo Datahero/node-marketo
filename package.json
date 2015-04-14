@@ -14,7 +14,7 @@
   "dependencies": {
     "async": "^0.9.0",
     "lodash": "^2.4.1",
-    "soap": "^0.5.0",
+    "soap": "git://github.com/datahero/node-soap.git#689a0ed7d24de4597fb0e71396f3b70c69245bb3",
     "xml2js": "^0.4.4"
   }
 }
