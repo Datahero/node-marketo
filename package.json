@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "async": "^0.9.0",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.15",
     "soap": "git://github.com/datahero/node-soap.git#689a0ed7d24de4597fb0e71396f3b70c69245bb3"
   }
 }
